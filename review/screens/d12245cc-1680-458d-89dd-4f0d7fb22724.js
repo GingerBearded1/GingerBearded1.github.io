@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1739425765352.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1739428301091.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-d12245cc-1680-458d-89dd-4f0d7fb22724" class="screen growth-vertical devWeb canvas PORTRAIT firer commentable non-processed" alignment="left" name="Screen 1"width="1920" height="1080">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1739425765352.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/d12245cc-1680-458d-89dd-4f0d7fb22724/style-1739428301091.css" />\
       <div class="freeLayout">\
       <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="1920.00px" datasizeheight="61.00px" datasizewidthpx="1919.9999999999995" datasizeheightpx="60.99999999999999" dataX="0.00" dataY="0.00" >\
         <div class="backgroundLayer">\
@@ -543,7 +543,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
       <div id="s-Dynamic_panel_1" class="dynamicpanel firer ie-background commentable pin vpin-end hpin-beginning non-processed-pin non-processed" customid="Dynamic panel 1" datasizewidth="100.00px" datasizeheight="60.00px" dataX="0.00" dataY="0.00" >\
-        <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="100.00px" datasizeheight="60.00px" >\
+        <div id="s-Panel_1" class="panel default firer click ie-background commentable non-processed" customid="Panel 1"  datasizewidth="100.00px" datasizeheight="60.00px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -553,7 +553,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
                 <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group 1" datasizewidth="0.00px" datasizeheight="0.00px" >\
-                  <div id="s-Rectangle_2" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="100.00px" datasizeheight="60.00px" datasizewidthpx="99.99999999999886" datasizeheightpx="60.0" dataX="0.00" dataY="0.00" >\
+                  <div id="s-Rectangle_2" class="rectangle manualfit firer click commentable non-processed" customid="Rectangle 1"   datasizewidth="100.00px" datasizeheight="60.00px" datasizewidthpx="99.99999999999886" datasizeheightpx="60.0" dataX="0.00" dataY="0.00" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
@@ -568,7 +568,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                       </div>\
                     </div>\
                   </div>\
-                  <div id="s-Button_8" class="button multiline manualfit firer mouseenter mouseleave ie-background commentable non-processed" customid="Secondary button"   datasizewidth="70.39px" datasizeheight="17.00px" dataX="14.81" dataY="23.50" >\
+                  <div id="s-Button_8" class="button multiline manualfit firer mouseenter mouseleave click ie-background commentable non-processed" customid="Secondary button"   datasizewidth="70.39px" datasizeheight="17.00px" dataX="14.81" dataY="23.50" >\
                     <div class="backgroundLayer">\
                       <div class="colorLayer"></div>\
                       <div class="imageLayer"></div>\
